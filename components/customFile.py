@@ -5,6 +5,7 @@ class CustomFile:
     def __init__(self) -> None:
         self.trainFile = pd.read_csv('./datasets/Training.csv')
         self.nb_model = None
+        self.medicineFile = pd.read_csv('./datasets/Disease_Medication-Testing.csv')
 
         with open('./models/nb_model.pkl', 'rb') as file:
             self.nb_model = pickle.load(file)
@@ -29,3 +30,8 @@ class CustomFile:
         classes = sorted(classes)
         return classes
 
+    def getMedication(self):
+        medication = self.medicineFile.to_dict(orient="index")
+        output = {row['prognosis']: row['Medication'] for _, row in medication.items()}
+        # print(output)
+        return output

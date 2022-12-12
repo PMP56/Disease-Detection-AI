@@ -2,7 +2,6 @@ fastapi
 uvicorn[standard]
 jinja2
 python-multipart
-pickle5
 pandas
 scikit-learn
 numpy

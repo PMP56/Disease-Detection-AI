@@ -14,6 +14,7 @@ cfile = CustomFile()
 symptoms = cfile.getFeatures()
 encoder = cfile.getEncoder()
 predictionClass = cfile.getPredictionClasses()
+medication = cfile.getMedication()
 
 @app.get("/")
 def root(request: Request):
@@ -30,6 +31,7 @@ async def generate_table(request: Request):
     form = await request.form()
     checked_symptoms = form.getlist("symptom")
     error = False
+    medicine = None
 
     if len(checked_symptoms) < 3:
         error = True
@@ -46,12 +48,20 @@ async def generate_table(request: Request):
     result_index = model.predict(input_data)[0]
     result = predictionClass[result_index]
 
-    print(result)
+    if result in medication:
+        medicine = medication[result]
+        medicine = medicine.split('\n')
+        print(medicine)
+
+    # print(medication[result])
+    # print(result in medication)
+    # cfile.getMedication()
     
     return templates.TemplateResponse("index.html", {
         "request": request,
         "symptoms": symptoms,
         "checkedSymptoms": checked_symptoms,
         "result": result,
-        "error": error
+        "error": error,
+        "medication": medicine
     })

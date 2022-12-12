@@ -47,8 +47,19 @@
                     <h4 class="ms-3 text-success">{{result}}</h4>
                 {% endif %}
             {% endif %}
+
         </div>
-        <h5>Select the symptoms: (atleast 3 symptoms)</h5>
+        <div class="d-flex">
+            {% if medication %}
+                <h4>Recommended medication: </h4>
+                <ul>
+                    {% for medicine in medication %}
+                        <li class="ms-3 text-success">{{medicine}}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+        <h5 class="mt-3">Select the symptoms: (atleast 3 symptoms)</h5>
         <form id="symptomForm" class="w-100 flex-container" action="/" method="post">
             {% for symptom in symptoms %}
                 <div class="flex-item">
