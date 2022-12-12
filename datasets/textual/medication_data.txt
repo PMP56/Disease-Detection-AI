@@ -1,0 +1,41 @@
+Hypothyroidism: 	Levothroid., Levoxyl., Synthroid., Unithroid.
+Dimorphic hemmorhoids(piles): 	acetaminophen (Tylenol, others),,  aspirin or ibuprofen (Advil, Motrin IB, others)
+Fungal infection: 	clotrimazole (Canesten), econazole., miconazole.
+Chicken pox: 	acyclovir
+Hepatitis D: 	Pegylated interferon alpha
+Malaria: 	Chloroquine phosphate, Artemisinin-based combination therapies (ACTs)
+Arthritis: 	celecoxib (Celebrex), ibuprofen (prescription strength), nabumetone (Relafen), naproxen (Naprosyn), naproxen sodium (Anaprox), piroxicam (Feldene)
+Acne: 	 tretinoin (Avita, Retin-A, others), , adapalene (Differin), , tazarotene (Tazorac, Avage, others).
+Chronic cholestasis: 	oral contraceptives, certain antiepileptic drugs, certain antifungal drugs, some antipsychotic drugs, certain antimicrobial drugs
+Hepatitis C: 	a combination of ombitasvir, , paritaprevir and ritonavir, taken with or without dasabuvir.ribavirin, an antiviral drug
+Dengue: 	acetaminophen
+Psoriasis: 	apremilast (Otezla), etanercept (Enbrel), , infliximab (Remicade), , adalimumab (Humira), , ustekinumab (Stelara), , secukinumab (Cosentyx)
+hepatitis A: 	GamaSTAN S/D, immune globulin intramuscular	
+Migraine: 	Acetaminophen and nonsteroidal anti-inflammatory drugs
+Hypertension: 	ACE inhibitor, calcium channel blocker
+Heart attack: 	Nitroglycerin, Statins
+Pneumonia: 	levofloxacin, clarithromycin, ceftriaxone, amoxicillin, azithromycin, 
+Alcoholic hepatitis: 	Pentoxifylline
+Diabetes: 	Insulin, Metformin
+Urinary tract infection: 	Trimethoprim and sulfamethoxazole (Bactrim, Bactrim DS), Fosfomycin (Monurol), Nitrofurantoin (Macrodantin, Macrobid, Furadantin), Cephalexin., Ceftriaxone.
+(vertigo) Paroymsal  Positional Vertigo: 	meclizine, , diphenhydramine, , lorazepam, , ondansetron
+Hyperthyroidism: 	carbimazole, propylthiouracil
+Typhoid: 	Ciprofloxacin (Cipro),, Azithromycin (Zithromax)., Ceftriaxone.
+Hepatitis E: 	ribavirin, an antiviral drug
+Jaundice: 	Rifampin, Naltrexone, Sertraline, Phenobarbital
+Tuberculosis: 	moxifloxacin (MOX),, isoniazid (INH), and., pyrazinamide (PZA).
+Paralysis (brain hemorrhage): 	painkillers,, corticosteroids, , osmotics, , anticonvulsants 
+Gastroenteritis: 	ondansetron, doxycycline
+Peptic ulcer diseae: 	Antacids, Antibiotic medications
+Hypoglycemia: 	glucagon, GlucaGen, Gvoke, diazoxide, Proglycem, Baqsimi, dasiglucagon, Zegalogue
+Varicose veins: 	polidocanol, Sotradecol, AscleraAsclera, Varithena, sodium tetradecyl sulfate
+Osteoarthristis: 	celecoxib (Celebrex), diflunisal., etodolac., fenoprofen (Nalfon), flurbiprofen., indomethacin (Indocin), ketoprofen., ketorolac.
+Common Cold: 	diphenhydramine,, pseudoephedrine, , phenylephrine,, dextromethorphan,, 
+Drug Reaction: 	use medicine as the test result.
+Cervical spondylosis: 	Ibuprofen, naproxen sodium
+Impetigo: 	Mupirocin
+Bronchial Asthma: 	Inhaled corticosteroids, Theophylline
+Hepatitis B: 	entecavir (Baraclude), , tenofovir (Viread), , lamivudine (Epivir), , adefovir (Hepsera), , telbivudine
+AIDS: 	 tenofovir disoproxil fumarate, emtricitabine, zidovudine
+GERD: 	Antacids, Histamine blockers
+Allergy: 	Cetirizine (Zyrtec, Zyrtec Allergy), Desloratadine (Clarinex), Fexofenadine (Allegra, Allegra Allergy)
